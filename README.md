@@ -9,3 +9,8 @@
 2. 항목2
 
 `npm install -g gemini`
+
+```
+npm install -g gemini
+gemini -v
+```
