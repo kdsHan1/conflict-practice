@@ -15,3 +15,4 @@ npm install -g gemini
 gemini -v
 ```
 [프로젝트 A](https://m.blog.naver.com/mindlikewind/222494511814)
+[프로젝트 A(새창으로)](https://m.blog.naver.com/mindlikewind/222494511814)[:target="_blank]
