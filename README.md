@@ -7,3 +7,5 @@
 
 1. 항목1
 2. 항목2
+
+`npm install -g gemini`
